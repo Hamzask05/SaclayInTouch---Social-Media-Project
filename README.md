@@ -78,6 +78,3 @@ Projet réalisé dans le cadre académique par :
 * **SERRAJ Mehdi**
 
 ---
-
-
-Fait avec ❤️ et beaucoup de café.
