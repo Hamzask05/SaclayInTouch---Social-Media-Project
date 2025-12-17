@@ -1,11 +1,11 @@
-# 🎓 SclayInTouch
+# 🎓 SaclayInTouch
 
 ![PHP](https://img.shields.io/badge/PHP-8.0%2B-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-MVP%20Functional-success?style=for-the-badge)
 
-> **SclayInTouch** est un réseau social universitaire conçu pour connecter les étudiants entre eux. Développé en PHP natif, ce projet met l'accent sur une architecture modulaire et une gestion optimisée des ressources.
+> **SaclayInTouch** est un réseau social universitaire conçu pour connecter les étudiants entre eux. Développé en PHP natif, ce projet met l'accent sur une architecture modulaire et une gestion optimisée des ressources.
 
 ---
 
@@ -19,7 +19,6 @@
 ### 💬 Social & Interaction
 * **Fil d'actualité :** Publication de posts (texte + images) et système de commentaires.
 * **Galerie Multimédia :** Visualisation des images postées via une modale interactive.
-* **Gestion des médias :** Upload d'images avec vérification d'extension et compression visuelle (support `.webp`).
 
 ### 🎨 Expérience Utilisateur (UX)
 * **Responsive Design :** Interface adaptée aux mobiles et desktops (via Bootstrap).
