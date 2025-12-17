@@ -51,15 +51,14 @@ Pour tester le projet sur votre machine :
 
 1.  **Cloner le dépôt :**
     ```bash
-    git clone [https://github.com/ton-username/sclayintouch.git](https://github.com/ton-username/sclayintouch.git)
+    git clone [https://github.com/Hamzask05/SaclayInTouch---Social-Media-Project.git]
     ```
 
 2.  **Base de Données :**
-    * Importez le fichier `sclayintouch.sql` (situé à la racine) dans votre gestionnaire MySQL (phpMyAdmin, Workbench...).
-    * La base de données s'appelle `saclayInTouch_db`.
+    * La base de données est nommée `saclayInTouch_db`.
 
 3.  **Configuration :**
-    * Ouvrez le fichier `classes/BD.php` (ou l'emplacement de ta classe).
+    * Ouvrez le fichier `connexionBD.php`.
     * Modifiez les identifiants si nécessaire :
     ```php
     private $host = "localhost";
@@ -69,7 +68,7 @@ Pour tester le projet sur votre machine :
 
 4.  **Lancement :**
     * Placez le dossier dans votre répertoire serveur (ex: `htdocs` pour XAMPP ou `www` pour WAMP).
-    * Accédez à `http://localhost/sclayintouch/login.php`.
+    * Accédez à `http://localhost/saclayIntouch/login.php`.
 
 ---
 
